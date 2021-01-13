@@ -1,0 +1,93 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    background-color: gainsboro;
+    display:inline-block;
+    width:100%;
+}
+.com{
+    color:black;
+    vertical-align: center;
+    font-size: 64px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+			
+.pass{
+    color:#800000;
+    vertical-align: center;
+    font-size: 64px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.title{
+    display:inline-block;
+    vertical-align: middle;
+}
+.logo{
+    display:inline-block;
+    width: 160px;
+}
+aside{
+    background-color: lightgray;
+}
+.img{
+    width:100%;
+}
+.profile{
+    width:100%;
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    background-color: beige;
+    height:auto;
+}
+.center{
+    padding-top: 150px;
+}
+.artitle{
+    text-align: center;
+    font-size: 70px;
+    color: black;
+}
+.author{
+    color:#800000;
+}
+.auimg{
+    width:70px;
+    text-align:center;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+nav{
+    height: 50px;
+    background-color: black;
+}	
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #800000;
+    color: white;
+}
